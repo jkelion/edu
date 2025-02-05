@@ -1,0 +1,16 @@
+[[navbar]]
+  identifier = "Publications"
+  name = "Publications"
+  url = "/fr/publication/"
+  weight = 10
+  [[navbar]]
+    identifier = "Book"
+    name = "Livre"
+    url = "/fr/publication/book/"
+    parent = "Publications"
+    weight = 11
+[[navbar]]
+  identifier = "Posts"
+  name = "Nouvelles"
+  url = "/fr/post/"
+  weight = 20

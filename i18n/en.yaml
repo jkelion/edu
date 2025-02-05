@@ -1,0 +1,20 @@
+allTitle:
+  other: "All {{ .Title }}"
+
+recentTitle:
+  other: "Recent {{ .Title }}"
+
+whatsInThis:
+  other: "What's in this {{ .Type }}"
+
+related:
+  other: "Related Articles"
+
+taxonomyPageList:
+  other: "Below you will find pages that utilize the taxonomy term {{ .Title }}"
+
+changeLang:
+  other: "Change language to French"
+
+ccText:
+  other: "This work and content of this website is licensed under CC BY-NC-ND 4.0"

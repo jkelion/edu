@@ -1,0 +1,20 @@
+allTitle:
+  other: "Toutes les {{ .Title }}"
+
+recentTitle:
+  other: "Dernières {{ .Title }}"
+
+whatsInThis:
+  other: "Qu'est-ce qu'il y a dans ceci {{ .Type }}"
+
+related:
+  other: "Articles connexes"
+
+taxonomyPageList:
+  other: "Vous trouverez ci-dessous des pages qui utilisent ce terme {{ .Title }}"
+
+changeLang:
+  other: "Passer à la langue anglaise"
+
+ccText:
+  other: "Ce travail et le contenu de ce site Web sont sous licence CC BY-NC-ND 4.0"
