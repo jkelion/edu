@@ -2,19 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Jonathan Kaplan</title>
-    <link>https://edu.jonathan-kaplan.eu/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on Jonathan Kaplan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://edu.jonathan-kaplan.eu/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Legal Notice</title>
-      <link>https://edu.jonathan-kaplan.eu/legal/</link>
+      <link>http://localhost:1313/legal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://edu.jonathan-kaplan.eu/legal/</guid>
+      <guid>http://localhost:1313/legal/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;The website address is: 
-&lt;a href=&#34;https://edu.jonathan-kaplan.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://edu.jonathan-kaplan.eu&lt;/a&gt;&lt;br&gt;
+&lt;p&gt;The website address is: &lt;a href=&#34;https://edu.jonathan-kaplan.eu&#34;&gt;https://edu.jonathan-kaplan.eu&lt;/a&gt;&lt;br&gt;
 Publication manager: Jonathan Kaplan&lt;br&gt;
 Address: 4 rue Maurice Denis F-75012 Paris, France&lt;br&gt;
 jonathan-kaplan.eu website is hosted by GitLab.&lt;/p&gt;&lt;/blockquote&gt;
@@ -23,10 +22,10 @@ jonathan-kaplan.eu website is hosted by GitLab.&lt;/p&gt;&lt;/blockquote&gt;
     
     <item>
       <title>Complete list of scientific publications</title>
-      <link>https://edu.jonathan-kaplan.eu/publication/2025-01-26/</link>
+      <link>http://localhost:1313/publication/2025-01-26/</link>
       <pubDate>Sun, 26 Jan 2025 11:00:23 +0000</pubDate>
       
-      <guid>https://edu.jonathan-kaplan.eu/publication/2025-01-26/</guid>
+      <guid>http://localhost:1313/publication/2025-01-26/</guid>
       <description>&lt;h3 class=&#39;sectionHead&#39;&gt;&lt;span class=&#39;titlemark&#39;&gt;1   &lt;/span&gt; &lt;a id=&#39;x1-10001&#39;&gt;&lt;/a&gt;Peer-Reviewed Articles&lt;/h3&gt;
 &lt;!--   l. 48   --&gt;&lt;p class=&#39;noindent&#39;&gt;
      &lt;/p&gt;&lt;dl class=&#39;thebibliography&#39;&gt;&lt;dt class=&#39;thebibliography&#39; id=&#39;X1-kaplan2024a&#39;&gt;
@@ -46,20 +45,20 @@ jonathan-kaplan.eu website is hosted by GitLab.&lt;/p&gt;&lt;/blockquote&gt;
     
     <item>
       <title>Special Track at TECH-EDU 2020: Tools for monitoring Self and Co-Regulation of e-Learning (Tools for SCReL)</title>
-      <link>https://edu.jonathan-kaplan.eu/post/techedu/</link>
+      <link>http://localhost:1313/post/techedu/</link>
       <pubDate>Mon, 14 Sep 2020 16:20:05 +0000</pubDate>
       
-      <guid>https://edu.jonathan-kaplan.eu/post/techedu/</guid>
+      <guid>http://localhost:1313/post/techedu/</guid>
       <description>&lt;p&gt;The 2nd International Conference on Technology and Innovation in Learning, Teaching and Education (TECH-EDU 2020) will be held online December 2–4. A special track within the conference will undertake examining research on the topic of self- and co-regulation in e-learning environments. The deadline for paper submission has been extended till September 29, 2020.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Book</title>
-      <link>https://edu.jonathan-kaplan.eu/publication/book/</link>
+      <link>http://localhost:1313/publication/book/</link>
       <pubDate>Tue, 27 Apr 2010 19:00:23 +0000</pubDate>
       
-      <guid>https://edu.jonathan-kaplan.eu/publication/book/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://edu.jonathan-kaplan.eu/images/kaplan2010_cover1.jpg&#34; alt=&#34;Book front cover&#34;&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/publication/book/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/kaplan2010_cover1.jpg&#34; alt=&#34;Book front cover&#34;&gt;&lt;/p&gt;
 &lt;p&gt;This research is the first ever recorded scientific research on Study Circles in French. It is also unique in that that it explores the learning processes taking place in Study Circles. The theoretical framework from which the research stems is Self-Direction in Learning. More specifically, metacognitive processes of regulation of the learning were studied. The research tested the effects of varying degrees of presence, or absence, of the Study Circle facilitator (sometimes referred to as the Study Circle leader) on learners&amp;rsquo; self-direction. They revealed some compelling differences, but foremost was the extent to which learners collectively direct their learning. Here&amp;rsquo;s a citation from the thesis abstract:&lt;/p&gt;</description>
     </item>
     

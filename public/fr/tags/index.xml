@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jonathan Kaplan</title>
-    <link>https://edu.jonathan-kaplan.eu/fr/tags/</link>
+    <link>http://localhost:1313/fr/tags/</link>
     <description>Recent content in Tags on Jonathan Kaplan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 21 Jul 2023 10:30:05 +0000</lastBuildDate><atom:link href="https://edu.jonathan-kaplan.eu/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Jul 2023 10:30:05 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cercle Étude</title>
-      <link>https://edu.jonathan-kaplan.eu/fr/tags/cercle-%C3%A9tude/</link>
+      <link>http://localhost:1313/fr/tags/cercle-%C3%A9tude/</link>
       <pubDate>Fri, 21 Jul 2023 10:30:05 +0000</pubDate>
       
-      <guid>https://edu.jonathan-kaplan.eu/fr/tags/cercle-%C3%A9tude/</guid>
+      <guid>http://localhost:1313/fr/tags/cercle-%C3%A9tude/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E-Learning</title>
-      <link>https://edu.jonathan-kaplan.eu/fr/tags/e-learning/</link>
+      <link>http://localhost:1313/fr/tags/e-learning/</link>
       <pubDate>Tue, 21 May 2019 12:06:32 +0000</pubDate>
       
-      <guid>https://edu.jonathan-kaplan.eu/fr/tags/e-learning/</guid>
+      <guid>http://localhost:1313/fr/tags/e-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cercles Étude</title>
-      <link>https://edu.jonathan-kaplan.eu/fr/tags/cercles-%C3%A9tude/</link>
+      <link>http://localhost:1313/fr/tags/cercles-%C3%A9tude/</link>
       <pubDate>Mon, 25 Nov 2013 00:00:23 +0000</pubDate>
       
-      <guid>https://edu.jonathan-kaplan.eu/fr/tags/cercles-%C3%A9tude/</guid>
+      <guid>http://localhost:1313/fr/tags/cercles-%C3%A9tude/</guid>
       <description></description>
     </item>
     
