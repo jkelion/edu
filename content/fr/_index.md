@@ -5,7 +5,7 @@ type = 'bookcase'
 bookcase_list_sections = false
 bookcase_list_pages = false
 +++
-<p><img src="/images/jk-pic.jpg" alt="Portrait" style="margin-left: 0;"></p>
+![Portrait](/images/jk-pic.jpg)
 
 J'ai été précédemment Maître de conférences à l’Institut des Sciences et Pratiques d’Éducation et de Formation (ISPEF), Université Lumière Lyon 2. Chercheur titulaire au laboratoire Éducation, Cultures & Politiques (ECP, EA 4571) et chercheur associé au Laboratoire Interdisciplinaire en Neurosciences, Physiologie et Psychologie&nbsp;: Apprentissages, Activité Physique, Santé (LINP2-AAPS). La recherche porte principalement sur les liens entre autorégulation de l’apprentissage, environnements et cognition.
 

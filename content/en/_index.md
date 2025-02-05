@@ -5,7 +5,7 @@ type = 'bookcase'
 bookcase_list_sections = false
 bookcase_list_pages = false
 +++
-<p><img src="/images/jk-pic.jpg" alt="Portrait" style="margin-left: 0;"></p>
+![Portrait](/images/jk-pic.jpg)
 
 I was previously an Associate Professor at the Institute of Sciences and Practices of Education and Training (ISPEF) Lumière University (Lyon 2), France and researcher at *Éducation, Cultures & Politiques* (ECP, EA 4571) research center. I was also an associate researcher at *Laboratoire Interdisciplinaire en Neurosciences, Physiologie et Psychologie: Apprentissages, Activité Physique, Santé* (LINP2-AAPS).
 
