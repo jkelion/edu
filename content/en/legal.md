@@ -7,7 +7,7 @@ rss_ignore: true
 >The website address is: https://edu.jonathan-kaplan.eu  
 >Publication manager: Jonathan Kaplan  
 >Address: 4 rue Maurice Denis F-75012 Paris, France  
->jonathan-kaplan.eu website is hosted by GitLab.
+>edu.jonathan-kaplan.eu website is hosted by GitLab.
 
 This website, in its entirety, is regulated under French law and international treaties and conventions on copyright and intellectual property. All reproduction rights for works and texts, including downloadable documents and iconographic and photographic representations, are held by their respective authors and require the author's authorisation when reproduction is sought.
 

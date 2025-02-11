@@ -7,7 +7,7 @@ rss_ignore: true
 >L'adresse du site Web est: https://edu.jonathan-kaplan.eu  
 >Directeur de la publication: Jonathan Kaplan  
 >Adresse: 4 rue Maurice Denis F-75012 Paris, France  
->Le site Web jonathan-kaplan.eu est hébergé par GitLab.
+>Le site Web edu.jonathan-kaplan.eu est hébergé par GitLab.
 
 L’ensemble de ce site Web relève des législations française et internationale sur le droit d’auteur et la propriété intellectuelle. Tous les droits de reproduction des œuvres et textes, y compris les documents téléchargeables et les représentations iconographiques et photographiques, sont réservés et requièrent l’autorisation explicite des auteurs respectifs lorsque une reproduction est souhaitée, sauf pour le cas où la reproduction et la représentation sont à titre de copie privée ou à des fins d’enseignement et de recherche et en dehors de toute utilisation lucrative. Ceci, sous réserve que soient indiqués clairement le nom de l’auteur et la source.
 
