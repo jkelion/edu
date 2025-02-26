@@ -25,4 +25,4 @@ Articles on this site may include embedded content (e.g. videos, images, article
 ### Data protection
 Measures have been taken to protect your users’ data. They include encryption of all data exchanged between this website and your devices.
 
-If you have any privacy-specific concerns, you can contact the publication manager of this website using the website contact e-mail.
+If you have any privacy-specific concerns, you can contact the publication manager of this website using this [Contact Form](https://jonathan-kaplan.eu/contact/).
