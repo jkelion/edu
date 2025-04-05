@@ -9,7 +9,7 @@ rss_ignore: true
 >Adresse: 4 rue Maurice Denis F-75012 Paris, France  
 >Le site Web edu.jonathan-kaplan.eu est hébergé par GitLab.
 
-L’ensemble de ce site Web relève des législations française et internationale sur le droit d’auteur et la propriété intellectuelle. Tous les droits de reproduction des œuvres et textes, y compris les documents téléchargeables et les représentations iconographiques et photographiques, sont réservés et requièrent l’autorisation explicite des auteurs respectifs lorsque une reproduction est souhaitée, sauf pour le cas où la reproduction et la représentation sont à titre de copie privée ou à des fins d’enseignement et de recherche et en dehors de toute utilisation lucrative. Ceci, sous réserve que soient indiqués clairement le nom de l’auteur et la source.
+L’ensemble de ce site Web relève des législations française et internationale sur le droit d’auteur et la propriété intellectuelle. Tous les droits de reproduction des œuvres et textes, y compris les documents téléchargeables et les représentations iconographiques et photographiques, sont réservés et requièrent l’autorisation explicite des auteurs respectifs lorsque une reproduction est souhaitée, sauf pour le cas où la reproduction et la représentation sont à titre de copie privée ou à des fins d’enseignement et de recherche, en dehors de toute utilisation lucrative. Ce droit est octroyé sous réserve que soient indiqués clairement le nom ou les noms des auteurs, et la source.
 
 En aucun cas, Jonathan Kaplan et ses collaborateurs ne peuvent être tenus pour responsables d’un quelconque dommage direct ou indirect, qu’elle qu’en soit la nature, découlant de l’utilisation du site Web edu.kaplan-consultants.org
 

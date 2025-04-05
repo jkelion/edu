@@ -9,7 +9,7 @@ rss_ignore: true
 >Address: 4 rue Maurice Denis F-75012 Paris, France  
 >edu.jonathan-kaplan.eu website is hosted by GitLab.
 
-This website, in its entirety, is regulated under French law and international treaties and conventions on copyright and intellectual property. All reproduction rights for works and texts, including downloadable documents and iconographic and photographic representations, are held by their respective authors and require the author's authorisation when reproduction is sought.
+This website, in its entirety, is regulated under French law and international treaties and conventions on copyright and intellectual property. All reproduction rights for works and texts, including downloadable documents as well as iconographic and photographic representations, are held by their respective authors and require the author's authorisation when reproduction is sought, except in the case that reproduction and reuse are intended for academic teaching and scientifique research purposes, excluding any lucrative use. This right is granted provided that the author or authors' names and the source are clearly indicated.
 
 Jonathan Kaplan cannot be held responsible under any circumstances for whatever damage of whichever kind, may it be direct or indirect, resulting from the use of the edu.jonathan-kaplan.eu website.
 
