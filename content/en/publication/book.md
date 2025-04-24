@@ -1,7 +1,6 @@
 +++
 date = 2010-04-27T19:00:23Z
 title = 'Book'
-tags = ['study circles']
 +++
 ![Book front cover](/images/kaplan2010_cover1.jpg)
 

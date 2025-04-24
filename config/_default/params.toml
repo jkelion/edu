@@ -19,7 +19,7 @@ enable_collapsible_changelogs = false
 
 [list_layout]
 enable_group_by_year = true
-enable_show_date = true
+enable_show_date = false
 enable_pagination = false
 
 # syntax highlight settings

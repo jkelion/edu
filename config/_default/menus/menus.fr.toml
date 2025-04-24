@@ -9,6 +9,12 @@
     url = "/fr/publication/book/"
     parent = "Publications"
     weight = 11
+  [[navbar]]
+    identifier = "Cercles d{'}étude"
+    name = "Cercles d’étude au service d’une intelligence collective"
+    url = "/fr/publication/sc/"
+    parent = "Publications"
+    weight = 12
 [[navbar]]
   identifier = "Posts"
   name = "Nouvelles"
