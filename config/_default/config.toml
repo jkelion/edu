@@ -16,3 +16,7 @@ series = "series"
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

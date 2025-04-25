@@ -1,9 +1,10 @@
 +++
 date = 2013-11-25T00:00:23Z
-title = 'Cercles d’étude au service d’une intelligence collective'
-[params]
-  author = 'Jonathan Kaplan'
+title = "Cercles d’étude au service d’une intelligence collective"
+author = "Jonathan Kaplan"
+tags = ['cercles étude']
 +++
+# Cercles d’étude au service d’une intelligence collective
 En évoquant les cercles d'étude, on court le risque qu'ils rappellent certaines méthodes de management du passé dont le nom commence par le mot cercle. Il n'en est rien, tout d'abord parce que ce serait une erreur que de qualifier le cercle d'étude de méthode. Il s'agit plutôt de créer, par la mise en place d'un cercle d'étude, un environnement aux contours clairs pour guider une action de changement systémique. Les cercles d'étude pourraient être plus justement présentés comme le substrat propice, voire incontournable, à ce qu'on nomme l'organisation apprenante et à la conduite collective d'un changement issu des apprentissages dans celle-ci. Le changement peut être à l'échelle des savoir-faire de l'entreprise, de ses processus, comme de ses orientations à l'égard des marchés, de l'évolution de ses services, ses produits, etc.
 
 Un autre risque est couru lorsque les cercles d'étude sont évoqués. C'est le fait qu'ils se heurtent aux conceptions traditionnelles de pilotage de l'entreprise, ce qui pourrait induire une méfiance de la part des dirigeants. Mise à part une description succincte de ce qu'est la démarche du cercle d'étude, cet article plaide en faveur de leur déploiement pour servir un processus de changement organisationnel. Un processus qui paraît incontournable pour maintenir et développer la compétitivité des entreprises.

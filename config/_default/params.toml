@@ -6,7 +6,7 @@ color_scheme = "light"
 enable_zooming_js = false
 enable_header_anchor = false
 enable_toc = false
-enable_site_search = false
+enable_site_search = true
 enable_math = false
 
 # SEO

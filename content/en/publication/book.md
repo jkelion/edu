@@ -1,6 +1,7 @@
 +++
 date = 2010-04-27T19:00:23Z
-title = 'Book'
+title = "Book"
+keywords = ['study circles', 'self-direction']
 +++
 ![Book front cover](/images/kaplan2010_cover1.jpg)
 
