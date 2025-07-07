@@ -18,3 +18,11 @@ changeLang:
 
 ccText:
   other: "Ce travail et le contenu de ce site Web sont sous licence CC BY-NC-ND 4.0"
+
+to_label: "À"
+from_label: "De"
+name_label: "Votre Prénom et Nom"
+reply_label: "Répondre"
+email_label: "Votre adresse Email"
+msg_label: "Votre message"
+submit_button: "Envoyer Email"

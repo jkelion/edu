@@ -25,4 +25,4 @@ Les articles de ce site peuvent inclure du contenu intégré (par exemple des vi
 ### Protection de données
 Des mesures ont été prises pour protéger les données des utilisateurs. Elles incluent le cryptage de toutes les données échangées entre ce site Web et vos appareils.
 
-Si vous avez des préoccupations spécifiques en matière de confidentialité, vous pouvez contacter le responsable de publication de ce site Web en utilisant ce [Formulaire de contact](https://jonathan-kaplan.eu/fr/contact/).
+Si vous avez des préoccupations spécifiques en matière de confidentialité, vous pouvez contacter le responsable de publication de ce site Web en utilisant le [Formulaire de contact](contact).
