@@ -8,4 +8,4 @@ Vous trouverez une [note de lecture](https://journals.openedition.org/dms/4122)[
 
 ![Première couverture du livre](/images/traite_e-for.png)
 
-[^1]: Felder, J. (2019). Traité de la e-Formation des adultes, une note de lecture sur l’ouvrage dirigé par Annie Jézégou. Distances et médiations des savoirs, 27-2019. Consulté le 28 juin 2020.
+[^1]: Felder, J. (2019). Traité de la e-Formation des adultes, une note de lecture sur l'ouvrage dirigé par Annie Jézégou. Distances et médiations des savoirs, 27-2019. Consulté le 28 juin 2020.

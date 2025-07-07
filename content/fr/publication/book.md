@@ -1,7 +1,7 @@
 +++
 date = 2010-04-27T15:25:23Z
 title = "Livre"
-keywords = ['cercles étude', 'autodirection']
+keywords = ["cercles d'étude", "autodirection"]
 +++
 ![Première couverture du livre](/images/kaplan2010_cover1.jpg)
 

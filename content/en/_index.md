@@ -1,5 +1,5 @@
 +++
-title = 'Home'
+title = 'Researcher in Learning Sciences'
 description = 'Scientific research carried out by Jonathan Kaplan (PhD)'
 type = 'bookcase'
 bookcase_list_sections = false
