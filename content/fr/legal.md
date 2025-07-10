@@ -2,6 +2,7 @@
 menu: navbar
 weight: 40
 title: 'Notice légale'
+search_hidden: true
 rss_ignore: true
 ---
 >L'adresse du site Web est: https://edu.jonathan-kaplan.eu  

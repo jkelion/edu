@@ -2,6 +2,7 @@
 menu: navbar
 weight: 40
 title: 'Legal Notice'
+search_hidden: true
 rss_ignore: true
 ---
 >The website address is: https://edu.jonathan-kaplan.eu  
