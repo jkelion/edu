@@ -1,0 +1,11 @@
+{{ with (.Scratch.Get "params").footer }}
+<footer>
+    <article>
+        {{- . | safeHTML -}}
+    </article>
+    
+  {{ if in .RelPermalink "/contact/" }}
+    <script src="/js/contact.js" defer></script>
+  {{ end }}
+</footer>
+{{ end }}
