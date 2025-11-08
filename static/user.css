@@ -34,6 +34,7 @@ input[type="submit"] {
   background-color: #4460aa;
   color: #fff;
   border: none;
+  margin-top: 7px; /* to separate from reCaptcha block */
 }
 
 input,
